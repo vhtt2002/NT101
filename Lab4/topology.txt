@@ -1,0 +1,11 @@
+Attack: 192.168.121.128
+DNS-Server: 192.168.121.129
+User: 192.168.121.130
+
+attacker-seed: br-357547cdffbb
+
+109bde6e1e9d  seed-attacker -> br-357547cdffbb
+22ac3221960b  attacker-ns-10.9.0.153
+a14684cfe68b  seed-router
+7ee789def097  local-dns-server-10.9.0.53
+278cb59253f6  user-10.9.0.5
